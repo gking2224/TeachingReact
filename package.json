@@ -25,7 +25,6 @@
     "eslint-plugin-jsx-a11y": "^5.0.1",
     "eslint-plugin-react": "^7.1.0",
     "extract-text-webpack-plugin": "^2.1.2",
-    "html-webpack-plugin": "^2.29.0",
     "loglevel": "^1.4.1",
     "mocha": "^3.4.2",
     "mocha-webpack": "^0.7.0",
